@@ -6,10 +6,10 @@ repository: https://github.com/leftyio/angular_youtube_player
 issue_tracker: https://github.com/leftyio/angular_youtube_player/issues
 
 environment:
-  sdk: ">=2.14.0 <3.0.0"
+  sdk: ">=2.17.0 <3.0.0"
 
 dependencies:
-  angular: ^7.0.0
+  ngdart: ^7.0.0
   youtube_iframe_interop: ^1.0.0
 
 dev_dependencies:
